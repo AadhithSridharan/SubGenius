@@ -1,5 +1,5 @@
 # SubGenius
-This repo contains a Colab notebook, an .srt file and mp4 video. This is my program that can generate a subtitle file (.srt) in a specified supported language directly from an audio/video link (youtube/drive/local) using pytube and AssemblyAI API
+This repo contains a Colab notebook, an .srt file and a .3gpp video. This is my program that can generate a subtitle file (.srt) in a specified supported language directly from an audio/video link (youtube/drive/local) using pytube and AssemblyAI API
 
 Introducing SubGenius: A Convenient Subtitle Generation Tool for GitHub
 
